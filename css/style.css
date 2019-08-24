@@ -187,9 +187,14 @@ Main content border color: #dddddd */
   #portfolio-page .work {
     position: relative;
     overflow: hidden;
-    width: 274px;
     margin: 20px 0 25px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
   }
+  
+
+
   
   .work h2 {
     position: absolute;
