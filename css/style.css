@@ -15,7 +15,7 @@ Main content background color: #ffffff
 
 Main content border color: #dddddd */
 
-* {
+ *{
     box-sizing: border-box;
   }
   
@@ -328,4 +328,4 @@ Main content border color: #dddddd */
       margin-top: 0;
       margin-right: 0p;
       padding-bottom: 5px;
-    }
+    }}
