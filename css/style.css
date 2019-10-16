@@ -23,6 +23,7 @@ Main content border color: #dddddd */
   body {
     height: 100%;
     margin: 0;
+    background-color:rgb(0, 153, 255) ;
   }
   
   h1 {
@@ -30,7 +31,7 @@ Main content border color: #dddddd */
   }
   
   nav a:hover {
-    color: #4aaaa5;
+    color: #4a84aa;
   }
   
   
@@ -49,6 +50,7 @@ Main content border color: #dddddd */
   
   body {
     background: url(https://sn3301files.storage.live.com/y4pXMg8bvI0aFXxzuALO6Cu7V5MVqmFJeH_nDcbT1N8Hi633E-eEWleAB3SvCd17IelGU15Dp-ELeTETYGqeS7xmKQJXXGCf1ts8jvqZPTTIsQdK-dek9t8Tdh7uRxH61E-9VxmEBUrAjpF1pAifAnEHPOxCHKiaC5Yvs7JdbMxit0GTPL5iJUynyS7utXl9Kwp/concrete_seamless.png?psid=1&width=400&height=400&cropMode=center);
+    background-image: url("..images/stars/background.jpg");
     font-size: 18px;
     line-height: 34px;
     font-family: 'Georgia', Times, Times New Roman, serif,
@@ -78,7 +80,7 @@ Main content border color: #dddddd */
   h2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-weight: 700;
-    color: #4aaaa5;
+    color: #4a84aa;
   }
   
   h1 {
@@ -106,7 +108,7 @@ Main content border color: #dddddd */
   #logo {
     width: 250px;
     height: 90px;
-    background: #4aaaa5;
+    background: #4a84aa;
     float: left;
     font-family: 'Georgia', Times, Times New Roman, serif;
     text-align: center;
@@ -167,7 +169,7 @@ Main content border color: #dddddd */
     color: #fff;
     padding: 30px o;
     clear: both;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #4a84aa;
     color: #cccccc;
     font-size: 12px;
     text-align: center;
@@ -200,7 +202,7 @@ Main content border color: #dddddd */
     position: absolute;
     padding: 15px 0px;
     border-bottom: 0;
-    background: #4aaaa5;
+    background: #4a84aa;
     color: #fff;
     text-align: center;
     bottom: 20px;
@@ -277,7 +279,7 @@ Main content border color: #dddddd */
   }
   
   input[type=submit] {
-    background: #4aaaa5;
+    background: #4a84aa;
     border: 0 none;
     color: #fff;
     font-size: 18px;
